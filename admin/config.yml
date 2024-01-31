@@ -1,0 +1,3 @@
+backend:
+  name: github
+  repo: xlabs-playground/portal-bridge-ui-cms
