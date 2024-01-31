@@ -1,3 +1,10 @@
 backend:
   name: github
   repo: xlabs-playground/portal-bridge-ui-cms
+media_folder: 'assets/uploads'
+collections:
+  - name: 'banner'
+    label: 'Banner'
+    folder: '_banners/'
+    fields:
+      - { name: Content }    
